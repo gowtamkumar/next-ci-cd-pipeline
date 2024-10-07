@@ -13,8 +13,7 @@ export default function Home() {
           priority
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">Get started by learn ci/cd pipline</li>
-          <li>Learn ci/cd pipline for begenner</li>
+          <h1>I am learning ci/cd pipline</h1>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
