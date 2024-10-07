@@ -14,7 +14,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">Get started by learn ci/cd pipline</li>
-          <li>Save and see your changes instantly.</li>
+          <li>Learn ci/cd pipline for begenner</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
