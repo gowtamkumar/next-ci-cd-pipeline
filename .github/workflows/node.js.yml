@@ -29,5 +29,5 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - name: change Directory
-    - run: cd /home/cicd/actions-runner/react-node-with-ci-cd-pipeline/react-node-with-ci-cd-pipeline
+      run: cd /home/cicd/actions-runner/react-node-with-ci-cd-pipeline/react-node-with-ci-cd-pipeline
     - run: pm2 restart 0
